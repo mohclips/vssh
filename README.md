@@ -25,17 +25,6 @@ Now includes multi-remote host access from the ssh_config
 
 ## Install
 
-### [Dobbin](https://github.com/shkm/dobbin)
-```
-dobbin add https://github.com/shkm/vssh vssh
-```
-
-### Homebrew
-
-```
-brew install shkm/brew/vssh
-```
-
 ### Generic
 Copy or symlink `vssh` to a place in your path.
 
