@@ -73,6 +73,5 @@ sys     0m0.011s
 
 ## Inspiration
 - Too much waiting
-- A repo with projects as submodules
-- [vassh](https://github.com/xwp/vassh)
+- [vssh](https://github.com/shkm/vssh)
 
